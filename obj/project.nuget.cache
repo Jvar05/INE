@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "COM45EP/pkI2/hH2uKx8IDK9rF9stqXm//CL9a3GHAVE9uV40U82Sa6VoGoHcl7WrPSBBkxlPIM2wiQb61yR7Q==",
+  "success": true,
+  "projectFilePath": "D:\\APPS\\FormRecognizerConsole\\formRecognizer_quickstart\\formRecognizer_quickstart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\azure.ai.formrecognizer\\4.0.0\\azure.ai.formrecognizer.4.0.0.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\jesus.castro\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dsmexico77:9090/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
